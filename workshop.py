@@ -17,3 +17,6 @@ def say_goodbuy():
     print('buy buy')
 
 say_goodbuy()
+
+def fornewbranch():
+    print('this def for a branch ')
