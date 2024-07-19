@@ -20,3 +20,7 @@ say_goodbuy()
 
 def fornewbranch():
     print('this def for a branch ')
+
+def second_branch():
+    print('hello worktwo')
+second_branch()
